@@ -72,8 +72,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-repeat: no-repeat;
     background-size: contain;
-<<<<<<< HEAD
-=======
 }
 
 .float-left {
@@ -84,7 +82,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
->>>>>>> 810f67587177e56d668248f10e22f0cfe1f6dedd
 }
 
 /*Main Content*/

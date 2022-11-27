@@ -42,6 +42,7 @@ p {
     font-size: 48px;
 }
 
+/*Company Name*/
 .header h1 .seo {
     color: #0072bb;
 }
@@ -74,16 +75,6 @@ p {
     background-size: contain;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /*Main Content*/
 .content {
     margin-bottom: 20px;
@@ -109,6 +100,16 @@ p {
     margin-left: 20px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /*Secondary Content*/
 .benefit {
     margin-bottom: 32px;
@@ -130,7 +131,7 @@ p {
     margin-right: 20px;
     padding: 20px;
     clear: both;
-    float:right;
+    float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;

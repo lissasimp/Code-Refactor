@@ -1,34 +1,33 @@
 # Horiseon_HTML_CSS_Refactor_1
-This project is about refactoring code to improve the accessibility of a website. Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
+
+This project is about refactoring code to improve the accessibility of a website. **Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.** Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
 
 ## User Story
-- AS A marketing agency
-- I WANT a codebase that follows accessibility standards
-- SO THAT our own site is optimized for search engines
+
+- **AS** A marketing agency
+- **I WANT** a codebase that follows accessibility standards
+- **SO THAT** our own site is optimized for search engines
 
 ## Acceptance Criteria
-- WHEN viewing the HTML source code
-- THEN Semantic HTML elements can be found throughout the source code
-- WHEN viewing the HTML elements
-- THEN HTML elements follow a logical structure independent of styling and positioning
-- WHEN viewing the web page using a screen reader
-- THEN Image and icon elements contain accessible alt attributes
-- WHEN viewing the HTML and CSS source code
-- THEN Heading attributes fall in sequential order and link to CSS code
-- WHEN viewing the website title
-- THEN Title elements contain a concise, descriptive title
+
+- **WHEN** viewing the HTML source code
+- **THEN** Semantic HTML elements can be found throughout the source code
+- **WHEN** viewing the HTML elements
+- **THEN** HTML elements follow a logical structure independent of styling and positioning
+- **WHEN** viewing the web page using a screen reader
+- **THEN** Image and icon elements contain accessible alt attributes
+- **WHEN** viewing the HTML and CSS source code
+- **THEN** Heading attributes fall in sequential order and link to CSS code
+- **WHEN** viewing the website title
+- **THEN** Title elements contain a concise, descriptive title
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](./Assets/Images/Horiseon%20Webpage%20Screentshot.png)
 
 ## Credits
+The following tutorials where used in this project:
+
 https://www.markdownguide.org/basic-syntax/
 https://www.youtube.com/watch?v=P4Mu1t5rIXg
 https://www.w3schools.com/html/html5_semantic_elements.asp

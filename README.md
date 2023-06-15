@@ -19,7 +19,7 @@ This project is about refactoring code to improve the accessibility of a website
 - **WHEN** viewing the HTML and CSS source code
 - **THEN** Heading attributes fall in sequential order and link to CSS code
 - **WHEN** viewing the website title
-- **THEN** Title elements contain a concise, descriptive title
+- **THEN** Title elements contain a concise, descriptive title ok
 
 ## Usage
 
